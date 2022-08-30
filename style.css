@@ -1,0 +1,55 @@
+body,html{
+  margin: 0;
+  padding: 0;
+}
+
+#Identite {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  height: 100px;
+  background-color: #3f4c6c;
+  padding: 100px;
+}
+
+#Macaron {
+  color: blue;
+}
+
+ul {
+  list-style-type: disc;
+  background-color: #3f4c6c;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
+
+p {
+  font-size: 17px;
+}
+
+#Lor {
+  text-decoration: underline;
+}
+
+#Lorraine {
+  max-width: 500px;
+  max height: 500px;
+  margin-top: 5px;
+  margin-bottom: 18px;
+}
+
+#Paris {
+  text-decoration: underline;
+  margin-top: 5px;
+}
+
+#Par {
+  margin-top: 5px;
+  margin-bottom: 18px;
+}
+
+#Amiens {
+  text-decoration: underline;
+  margin: top 20px;
+}
